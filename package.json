@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-add-vue-template",
+  "version": "1.0.0",
+  "description": "Add a template string to the exported Vue object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiosame/babel-plugin-add-vue-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiosame/babel-plugin-add-vue-template/issues"
+  },
+  "homepage": "https://github.com/hirokiosame/babel-plugin-add-vue-template#readme"
+}
